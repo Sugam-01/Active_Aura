@@ -1,11 +1,7 @@
 import React from 'react';
 import { Box, Stack, Typography } from '@mui/material';
-<<<<<<< HEAD
-import HeroBannerImage from '../assets/images/bodyguy.avif';
-=======
 
-import HeroBannerImage from '../assets/images/bodyguy.jpg';
->>>>>>> 96cb535cd65709fa1937ae309fd7024ce5c3a20a
+import HeroBannerImage from '../assets/images/bodyguy.avif';
 
 const HeroBanner = () => (
   <Box sx={{ mt: { lg: '212px', xs: '70px' }, ml: { sm: '50px' } }} position="relative" p="20px">

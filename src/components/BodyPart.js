@@ -34,7 +34,7 @@ const BodyPart = ({ item, setBodyPart, bodyPart }) => (
           gap: '47px',
           transition: 'all 0.3s ease', // Added transition for smooth hover effects
           '&:hover': {
-            backgroundColor: '#F1F1F1', // Background color on hover
+            backgroundColor: 'lightcyan', // Background color on hover
             transform: 'scale(1.05)', // Slightly scale up on hover
           },
         }
